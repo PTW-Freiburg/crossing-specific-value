@@ -21,6 +21,6 @@
      "axis"
     ],
     "dependencies": {
-        "Highcharts": ">=3.0.0"
+        "highcharts-release": ">=3.0.0"
     }
 }
